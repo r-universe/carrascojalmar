@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GTDL"]
+	path = GTDL
+	url = https://github.com/carrascojalmar/gtdl
+	shallow = true
+	registered = true
+[submodule "MNB"]
+	path = MNB
+	url = https://github.com/carrascojalmar/mnb
+	shallow = true
+	registered = true
