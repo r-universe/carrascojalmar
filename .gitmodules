@@ -5,6 +5,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/carrascojalmar/gtdl
+[submodule "HZIP"]
+	path = HZIP
+	url = https://github.com/carrascojalmar/hzip
 [submodule "MNB"]
 	path = MNB
 	url = https://github.com/carrascojalmar/mnb
